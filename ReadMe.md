@@ -20,4 +20,6 @@ make -j8
 ```
 
 ## TODO
-Separate visual frontend from vio manager, and add vio app
+1. Separate visual frontend from vio manager
+2. Add config singleton
+2. Add vio app
